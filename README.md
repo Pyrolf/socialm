@@ -1,4 +1,7 @@
-# SocailM
-SocialM is a social media web application, allowing the user to share images online and make comments, that is created using Sanity(backend) and React(frontend).
+# SocialM
+SocialM is a Social Media Application, which allows users to share/save/download images online and make comments.
+This application is created using:
+* Frontend - React and Tailwind
+* Backend - Sanity.
 
-Website: https://socialm.netlify.app/
+Website: [SocialM](https://socialm.netlify.app/)
